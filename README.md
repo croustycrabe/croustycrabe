@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm a junior project manager in MES / IT field<br>🦀 I enjoy using Flutter and Rust, and I'm always looking for projects involving these languages<br>🔍 I'm always interested in projects that involve data, low-level programing or cybersecurity
+💼 I'm a junior project manager in MES / IT field<br>🦀 I enjoy using Flutter and Rust, and I'm always looking for projects involving these languages<br>🔍 I'm always interested in projects that involve low-level programing, cybersecurity, IaC or data
 
 
 # 💻 Tech Stack:
